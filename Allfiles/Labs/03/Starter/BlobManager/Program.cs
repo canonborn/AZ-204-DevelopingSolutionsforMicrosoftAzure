@@ -8,7 +8,7 @@ public class Program
 
     private const string storageAccountName = "mediastoraarturo";
 
-    private const string storageAccountKey = "WOA5oN68uWMktm2OclLpdiNOL0WqZvcX3PgKSpuP5e4lCr7ZNVSXN5/kOPUJ9gyxasEE9yiaeZQ0+AStia8L/A==";
+    private const string storageAccountKey = "";
 
     public static async Task Main(string[] args)
     {
